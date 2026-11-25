@@ -15,6 +15,13 @@ I build and test machine-learning and retrieval-augmented generation (RAG) syste
 | [Sales Forecasting Neural Network](https://github.com/Muhammad-Huzaifa-Shafique/Sales-Forecasting-Neural-Network) ([explainer](https://muhammad-huzaifa-shafique.github.io/forecasting.html)) | A neural network tested against four baselines on 12 months it never saw, with about 12% lower error than the best baseline. A version that made results worse stays in the results table | Python, scikit-learn, pandas |
 | [Gapminder Dashboard](https://github.com/Muhammad-Huzaifa-Shafique/Dashboard) ([live report](https://muhammad-huzaifa-shafique.github.io/Dashboard/Animation_data.html), [explainer](https://muhammad-huzaifa-shafique.github.io/dashboard.html)) | Exploratory analysis and clear reporting: population-weighted life expectancy rose on every continent, led by Asia (42.9 to 69.4 years) | R, Quarto, Plotly |
 
+## Coursework
+
+| Project | What it shows | Built with |
+|---|---|---|
+| [Neural Networks Coursework](https://github.com/Muhammad-Huzaifa-Shafique/Neural-Networks-Coursework) ([interactive walkthrough](https://muhammad-huzaifa-shafique.github.io/deep-learning.html)) | Four graduate assignments: a forward and backward pass written by hand in NumPy (training loss 796.2 to 23.5), ten Keras experiments on California housing prices (test MAPE 21.33% to 18.91%) and ten CNN variations on CIFAR-10 (test accuracy 71.65% to 74.54%). Each one lists what changed and which gaps are too small to rank | Python, NumPy, Keras, TensorFlow |
+| [Programming Coursework](https://github.com/Muhammad-Huzaifa-Shafique/Programming-Coursework) | Small practice exercises from a graduate course: a tested Python class and four Visual Basic apps | Python, Visual Basic |
+
 ## Data engineering projects (the step before modeling)
 
 | Project | What it shows | Built with |
@@ -32,7 +39,7 @@ Each project README says what the project shows and where it falls short.
 
 ## Skills
 
-- **Machine learning and LLMs:** scikit-learn (neural networks, logistic regression, Isolation Forest, ensembles), time-series features, model evaluation against baselines, anomaly detection, drift monitoring, RAG, embeddings and vector search (Chroma), TF-IDF retrieval, prompt engineering, local LLMs (Ollama, Llama 3.1)
+- **Machine learning and LLMs:** scikit-learn (neural networks, logistic regression, Isolation Forest, ensembles), Keras and TensorFlow, backpropagation in NumPy and CNNs (coursework), time-series features, model evaluation against baselines, anomaly detection, drift monitoring, RAG, embeddings and vector search (Chroma), TF-IDF retrieval, prompt engineering, local LLMs (Ollama, Llama 3.1)
 - **Python and data:** Python, Pandas, NumPy, SQL, R, REST APIs, Flask, SQLite, unit testing, Git
 - **Security:** penetration testing, vulnerability assessment, threat intelligence, Kali Linux, Nmap, Metasploit
 
