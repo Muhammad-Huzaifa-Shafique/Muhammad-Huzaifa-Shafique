@@ -1,6 +1,6 @@
 # Muhammad Huzaifa Shafique
 
-**AI and machine learning graduate student, looking for AI/ML engineer roles.** Master of Science in Technology with an emphasis in AI, Pittsburg State University (Kansas, USA). GPA 4.0, graduating December 2026.
+**AI and machine learning graduate, looking for AI/ML engineer roles.** Graduated in December 2026 with a Master of Science in Technology with an emphasis in AI from Pittsburg State University (Kansas, USA). GPA 4.0.
 
 I build and test machine-learning and retrieval-augmented generation (RAG) systems in Python, and I publish how well they work, including where they fall short.
 
@@ -45,8 +45,8 @@ Each project README says what the project shows and where it falls short.
 
 ## Background
 
-- **Graduate Teaching Assistant**, Pittsburg State University (Aug 2026 to present)
-- **Master of Science in Technology with an emphasis in AI**, Pittsburg State University (Aug 2025 to Dec 2026, expected)
+- **Graduate Teaching Assistant**, Pittsburg State University (Aug 2026 to Dec 2026)
+- **Master of Science in Technology with an emphasis in AI**, Pittsburg State University (Aug 2025 to Dec 2026)
 - **Laboratory Teaching Assistant**, COMSATS University Islamabad (Aug 2023 to Jan 2024)
 - **B.Sc. in Physics**, COMSATS University Islamabad, Pakistan (2019 to 2023)
 - **Certifications and badges:** Claude 101 and AI Fluency: Framework & Foundations (Anthropic); Data Science and Machine Learning using Python (Lahore University of Management Sciences); Google Developer Program badges [Learning](https://developers.google.com/profile/badges/recognitions/learnings) and [Joined the Google Developer Program](https://developers.google.com/profile/badges/profile/created-profile)
